@@ -11,3 +11,8 @@ p{
     justify-content: center; 
     align-items: center; 
   } 
+
+  /**body***/
+body{
+  background-color: rgb(197, 219, 219);
+  }
