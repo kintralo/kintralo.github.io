@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const listaRepositorios = document.getElementById("lista-repositorios");
 
-    fetch("https://api.github.com/users/tunombre/repos")
+    fetch("https://api.github.com/users/kintralo/repos")
         .then(response => response.json())
         .then(repos => {
             repos.forEach(repo => {
