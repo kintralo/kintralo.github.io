@@ -1,3 +1,4 @@
-# kintralo.github.io
-PORTAFOLIO
-  Portafolio donde muestro 2 de mis trabajos, habilidades que poseo, y publico mis redes sociales
+# PORTAFOLIO
+En esta página muestro mi portafolio. EN él encontrarás mis redes de contacto, los proyectos en los cuales he trabajado e información sobre mí.
+
+  
